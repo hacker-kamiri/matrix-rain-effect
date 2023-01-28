@@ -1,1 +1,1 @@
-{"version":3,"file":"static/css/main.2a62d2b3.css","mappings":"AAAA,QAGI,MAAO,CACP,eAAgB,CAHhB,cAAe,CACf,KAGJ","sources":["App.css"],"sourcesContent":[".canvas {\r\n    position: fixed;\r\n    top: 0;\r\n    left: 0;\r\n    overflow: hidden;\r\n}"],"names":[],"sourceRoot":""}
+{"version":3,"file":"static/css/main.2a62d2b3.css","mappings":"AAAA,QAGI,MAAO,CACP,eAAgB,CAHhB,cAAe,CACf,KAGJ","sources":["App.css"],"sourcesContent":[".canvas {\n    position: fixed;\n    top: 0;\n    left: 0;\n    overflow: hidden;\n}"],"names":[],"sourceRoot":""}
