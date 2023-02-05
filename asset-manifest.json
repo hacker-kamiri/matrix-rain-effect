@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/matrix-rain-effect/static/css/main.2a62d2b3.css",
-    "main.js": "/matrix-rain-effect/static/js/main.279f2f87.js",
+    "main.js": "/matrix-rain-effect/static/js/main.b9e19ef3.js",
     "index.html": "/matrix-rain-effect/index.html",
     "main.2a62d2b3.css.map": "/matrix-rain-effect/static/css/main.2a62d2b3.css.map",
-    "main.279f2f87.js.map": "/matrix-rain-effect/static/js/main.279f2f87.js.map"
+    "main.b9e19ef3.js.map": "/matrix-rain-effect/static/js/main.b9e19ef3.js.map"
   },
   "entrypoints": [
     "static/css/main.2a62d2b3.css",
-    "static/js/main.279f2f87.js"
+    "static/js/main.b9e19ef3.js"
   ]
 }
